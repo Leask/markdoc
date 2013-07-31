@@ -92,7 +92,7 @@ The minimum requirements to run the Markdoc utility are:
 
 ### Default theme
 
-[BLITZ Markdoc Theme]: https://github.com/blitzagency/markdoc-theme
+[BLITZ Markdoc Theme](https://github.com/blitzagency/markdoc-theme)
 
 Designed by blitzagency
 
