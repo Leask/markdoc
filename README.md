@@ -8,23 +8,23 @@ you to create and manage wikis as quickly and easily as possible.
 
 Potential use cases for Markdoc include, but aren’t limited to:
 
-*   **Technical Documentation/Manuals**  
+*   **Technical Documentation/Manuals**
     Markdoc can be used to write and render hand-written guides and manuals for
     software. Such documentation will normally be separate from
     automatically-generated API documentation, and might give a higher-level
     view than API docs alone. It might be used for client documentation for
     web/desktop applications, or even developer documentation for frameworks.
 
-*   **Internal Project Wikis**  
+*   **Internal Project Wikis**
     Markdoc wikis consist of a single plain-text file per page. By combining a
     wiki with a DVCS (such as [Mercurial][] or [Git][]), you can collaborate
     with several other people. Use the DVCS to track, share and merge changes
     with one another, and view the wiki’s history.
-    
+
   [Mercurial]: http://mercurial.selenic.com/
   [Git]: http://git-scm.com/
 
-*   **Static Site Generation**  
+*   **Static Site Generation**
     Markdoc converts wikis into raw HTML files and media. This allows you to
     manage a blog, personal website or a collection of pages in a Markdoc wiki,
     perhaps with custom CSS styles, and publish the rendered HTML to a website.
@@ -88,6 +88,13 @@ The minimum requirements to run the Markdoc utility are:
     markdoc build
     markdoc serve
     # .. open http://localhost:8008/ in a browser ...
+
+
+### Default theme
+
+[BLITZ Markdoc Theme]: https://github.com/blitzagency/markdoc-theme
+
+Designed by blitzagency
 
 
 ## (Un)license
